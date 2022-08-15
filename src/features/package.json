@@ -1,0 +1,11 @@
+{
+  "name": "@ip-address/features",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "Lucas Atolini <atolini@live.com>",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
